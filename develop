@@ -1,0 +1,7 @@
+1. 阅读参考资料料1
+2. 创建⼀一个名为 hello-world 的仓库（记得勾选 Initialize this repository with a
+README ），完成后在仓库内再创建⼀一个 develop 分⽀支
+3. 在 develop 分⽀支中创建⼀一个名为 develop.txt 的⽂文件，提交⼀一个 commit
+4. 从 develop 提交⼀一个 Pull Request 到 master 分⽀支，并将其合并(merge)
+5. 在 master 分⽀支中再创建⼀一个名为 master.txt 的⽂文件，提交⼀一个 commit
+6. 从 master 提交⼀一个 pull request 到 develop 分⽀支，并将其合并
